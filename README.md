@@ -1,1 +1,4 @@
-# Allgemeine Informatik 2 - Programmier Praktikum - Wintersemester 2016
+# Allgemeine Informatik 2
+Programmier Projekt - Wintersemester 2016
+
+Bescheibung folgt
